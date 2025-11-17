@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Beginner Data Analyst",
+    "edu": "Bachelors",
+    "tech_skills": ["excel", "sql"],
+    "soft_skills": ["communication"],
+    "goal": "Data Analyst",
+    "user_level": "Beginner"
+  },
+  {
+    "name": "ML Research Aspirant",
+    "edu": "Masters",
+    "tech_skills": ["python", "ml", "pytorch"],
+    "soft_skills": ["problem-solving"],
+    "goal": "ML Researcher",
+    "user_level": "Advanced"
+  },
+  {
+    "name": "Cloud Transition",
+    "edu": "Bachelors",
+    "tech_skills": ["python", "aws"],
+    "soft_skills": ["teamwork"],
+    "goal": "Cloud Engineer",
+    "user_level": "Intermediate"
+  },
+  {
+    "name": "Career Switcher to DS",
+    "edu": "Bachelors",
+    "tech_skills": ["python"],
+    "soft_skills": ["time-management"],
+    "goal": "Data Scientist",
+    "user_level": "Beginner"
+  },
+  {
+    "name": "Full Stack to Data Eng",
+    "edu": "Bachelors",
+    "tech_skills": ["python", "sql", "docker"],
+    "soft_skills": ["leadership"],
+    "goal": "Data Engineer",
+    "user_level": "Intermediate"
+  }
+]

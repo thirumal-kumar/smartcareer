@@ -1,0 +1,51 @@
+title,provider,duration_weeks,prerequisites,skill_tags,level,link
+Python for Everybody,Coursera,8,None,"python,programming,beginners",Beginner,https://www.coursera.org/
+Data Science Specialization,Coursera,12,"python,statistics","data science,ml,pandas",Intermediate,https://www.coursera.org/
+Machine Learning,Stanford,12,"python,linear algebra","ml,supervised learning,sklearn",Advanced,https://online.stanford.edu/
+Deep Learning Specialization,Coursera,10,"python,ml","deep learning,neural networks,keras",Advanced,https://www.coursera.org/
+Intro to SQL,Codecademy,4,None,"sql,database,data querying",Beginner,https://www.codecademy.com/
+Applied Data Analytics,edX,8,"python,sql","analytics,pandas,data visualization",Intermediate,https://www.edx.org/
+AWS Cloud Practitioner,AWS,4,None,"cloud,aws,cloud fundamentals",Beginner,https://aws.amazon.com/
+Azure Fundamentals,Microsoft,4,None,"cloud,azure,cloud fundamentals",Beginner,https://learn.microsoft.com/
+DevOps Fundamentals,Udemy,6,None,"devops,ci/cd,docker basics",Beginner,https://www.udemy.com/
+Docker & Kubernetes,Udemy,8,"linux basics","docker,kubernetes,containers",Intermediate,https://www.udemy.com/
+Natural Language Processing,Coursera,10,"python,ml","nlp,transformers,text processing",Advanced,https://www.coursera.org/
+Computer Vision with OpenCV,Udemy,8,"python","opencv,cv,image processing",Intermediate,https://www.udemy.com/
+Intro to Statistics,Khan Academy,6,None,"statistics,probability,data basics",Beginner,https://www.khanacademy.org/
+R for Data Science,Datacamp,6,None,"r,data manipulation,ggplot2",Beginner,https://www.datacamp.com/
+Time Series Analysis,Coursera,8,"statistics,python","time series,forecasting,ARIMA",Intermediate,https://www.coursera.org/
+SQL for Data Science,Coursera,6,None,"sql,data science,queries",Beginner,https://www.coursera.org/
+Reinforcement Learning,Udacity,12,"python,ml,probability","reinforcement learning,agents",Advanced,https://www.udacity.com/
+Big Data Essentials,edX,6,None,"big data,hadoop,spark basics",Beginner,https://www.edx.org/
+Spark for Data Engineers,Databricks,8,"python,spark basics","spark,data engineering,pyspark",Intermediate,https://databricks.com/
+Feature Engineering,Udemy,5,"python,ml","feature engineering,data preprocessing",Intermediate,https://www.udemy.com/
+Intro to Git & GitHub,Codecademy,3,None,"git,version control,collaboration",Beginner,https://www.codecademy.com/
+SQL Optimization,Pluralsight,4,"sql","sql,performance,optimization",Intermediate,https://www.pluralsight.com/
+Data Engineering on GCP,Coursera,10,"python,sql","gcp,data engineering,bigquery",Intermediate,https://www.coursera.org/
+MLOps Fundamentals,Coursera,8,"ml,python","mlops,model deployment,ci/cd",Intermediate,https://www.coursera.org/
+Introduction to Cybersecurity,Coursera,6,None,"security,cybersecurity,basics",Beginner,https://www.coursera.org/
+Keras Deep Learning,Coursera,6,"python,ml","keras,neural networks,dl",Intermediate,https://www.coursera.org/
+Model Interpretability,Udacity,4,"ml,python","model explainability,shap,lime",Intermediate,https://www.udacity.com/
+Computer Networks Basics,edX,6,None,"networking,computer networks,basics",Beginner,https://www.edx.org/
+Data Visualization with Tableau,Coursera,4,None,"tableau,data viz,visualization",Beginner,https://www.coursera.org/
+Advanced SQL & Analytics,Udemy,6,"sql","sql,analytics,advanced queries",Advanced,https://www.udemy.com/
+Ethical AI & Responsible ML,edX,3,None,"ethics,ai,responsible ml",Beginner,https://www.edx.org/
+Applied NLP with Transformers,Hugging Face,6,"nlp,python","transformers,nlp,huggingface",Advanced,https://huggingface.co/
+Data Wrangling with Pandas,DataCamp,4,"python","pandas,data cleaning,data manipulation",Beginner,https://www.datacamp.com/
+Introduction to Probability,Khan Academy,5,None,"probability,math,statistics basics",Beginner,https://www.khanacademy.org/
+Graph Neural Networks,Coursera,8,"ml,python","gnn,graph neural networks,deep learning",Advanced,https://www.coursera.org/
+SQL + Python Integration,Udemy,4,"sql,python","sql,python,integration",Intermediate,https://www.udemy.com/
+Business Analytics Foundations,edX,6,None,"business analytics,data interpretation",Beginner,https://www.edx.org/
+Computer Science 101,MIT OCW,10,None,"cs fundamentals,algorithms,data structures",Beginner,https://ocw.mit.edu/
+Introduction to Bioinformatics,Coursera,8,"biology basics","bioinformatics,sequence analysis",Beginner,https://www.coursera.org/
+Intro to Frontend Web Dev,Codecademy,6,None,"html,css,javascript,web dev",Beginner,https://www.codecademy.com/
+Product Management Essentials,Coursera,6,None,"product,management,roadmaps",Beginner,https://www.coursera.org/
+Data Privacy & GDPR,Udemy,3,None,"privacy,gdpr,compliance",Beginner,https://www.udemy.com/
+Introduction to SQLAlchemy,Pluralsight,4,"python,sql","sqlalchemy,orm,databases",Intermediate,https://www.pluralsight.com/
+Cloud Security Basics,Coursera,4,"cloud basics","cloud security,aws,gcp basics",Intermediate,https://www.coursera.org/
+Entrepreneurship 101,edX,6,None,"entrepreneurship,startups,business basics",Beginner,https://www.edx.org/
+Elective Course 46,Udemy,4,None,"elective,skill",Beginner,https://www.udemy.com/
+Elective Course 47,Udemy,4,None,"elective,skill",Beginner,https://www.udemy.com/
+Elective Course 48,Udemy,4,None,"elective,skill",Beginner,https://www.udemy.com/
+Elective Course 49,Udemy,4,None,"elective,skill",Beginner,https://www.udemy.com/
+Elective Course 50,Udemy,4,None,"elective,skill",Beginner,https://www.udemy.com/
